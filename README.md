@@ -11,6 +11,7 @@ You can open them directly on GitHub or download them locally.
 
 Example (current/future reports):
 - [French Socksess Story - Sock Puppet Empire](./KC7_FrenchSocksessStory_CTF_Report.pdf)
+- [Krusty Crab Repot](./Krusty_Crab_CTF_Report.pdf)
 
 
 ---
