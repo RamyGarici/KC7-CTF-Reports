@@ -13,7 +13,7 @@ Example (current/future reports):
 - [French Socksess Story - Sock Puppet Empire](./KC7_FrenchSocksessStory_CTF_Report.pdf)
 - [Krusty Crab ](./Krusty_Crab_CTF_Report.pdf)
 - [Cowboy Couture ](./KC7_CowboyCouture_CTF_Report.pdf)
-- [Envolve Labs} (./Kc7_EnvolveLabs_Report.pdf)
+- [Envolve Labs](./Kc7_EnvolveLabs_Report.pdf)
 
 
 ---
