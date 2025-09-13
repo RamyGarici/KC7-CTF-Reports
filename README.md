@@ -14,6 +14,7 @@ Example (current/future reports):
 - [Krusty Crab ](./Krusty_Crab_CTF_Report.pdf)
 - [Cowboy Couture ](./KC7_CowboyCouture_CTF_Report.pdf)
 - [Envolve Labs](./Kc7_EnvolveLabs_Report.pdf)
+- [Encryptodera] (./KC7_Encryptodera_CTF_Report.pdf)
 
 
 ---
