@@ -18,6 +18,7 @@ Example (current/future reports):
 - [Dai Wok Foods](./KC7_DaiWokFoods_Report.pdf)
 - [Iowa Balloons](./KC7_IowaBalloons_Report.pdf)
 - [Galaxy Neura](./KC7_GalaxyNeura_Report.pdf)
+- [Scholomance](./KC7_Scholomance_Report.pdf)
 
 
 ---
