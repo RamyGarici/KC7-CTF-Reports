@@ -20,6 +20,7 @@ Example (current/future reports):
 - [Galaxy Neura](./KC7_GalaxyNeura_Report.pdf)
 - [Scholomance](./KC7_Scholomance_Report.pdf)
 - [Empire Health Network](./KC7_EmpireHealthNetwork_Report.pdf)
+- [C.J Walker](./KC7_CJ_Walker_Report.pdf)
 
 
 ---
